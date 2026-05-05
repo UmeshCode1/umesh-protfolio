@@ -1,0 +1,7 @@
+{
+  "name": "umesh-portfolio",
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "installCommand": "npm install",
+  "outputDirectory": ".next"
+}
